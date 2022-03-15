@@ -1,10 +1,10 @@
 body {
-  background-color: #262626;
+  background-color: #171717;
 }
 
 table {
-  background-color: #262626;
-  width: 100%;
+  background-color: #262625;
+  /*width: 100%;*/
 }
 
 /* Row Formatting, works on all front page  */
@@ -12,10 +12,10 @@ tr.athing > td {
   padding-top: 0.7rem;
 }
 tr.athing > td.title {
-  font-size: 0.9rem;
+  /*font-size: 0.9rem;*/
 }
 tr > td.subtext {
-  font-size: 0.7rem;
+  /*font-size: 0.7rem;*/
 }
 
 tr.athing > td > a {
@@ -27,11 +27,11 @@ tr.athing > td > a:visited {
 
 /* Top Bar */
 span.pagetop b.hnname a {
-  font-size: 1.1rem;
+  /*font-size: 1.1rem;*/
   color: #ff6917;
 }
 span.pagetop a:visited {
-  font-size: 1.1rem;
+  /*font-size: 1.1rem;*/
   color: #ff6917;
 }
 span.pagetop > a {
@@ -73,11 +73,11 @@ span.c00 a:visited {
 /* Comment page replies */
 div.comment .c00 {
   color: #b9b9b9;
-  font-size: 0.8rem;
+  /*font-size: 0.8rem;*/
 }
 
 div.reply u > a {
-  font-size: 0.8rem;
+  /*font-size: 0.8rem;*/
 }
 div.reply u > a:link {
   color: whitesmoke;
